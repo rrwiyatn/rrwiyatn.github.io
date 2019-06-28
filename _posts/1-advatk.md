@@ -1,7 +1,7 @@
 ---
 title: 'Tricking a Machine into Thinking You’re Milla Jovovich - And other types of adversarial attacks in machine learning'
 date: 2018-08-09
-permalink: /posts/1-advatk
+permalink: /posts/2018/09/1-advatk/
 tags:
   - machine learning
   - adversarial examples

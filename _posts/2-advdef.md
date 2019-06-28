@@ -1,7 +1,7 @@
 ---
 title: 'Securing Machine Learning Models Against Adversarial Attacks'
 date: 2019-01-09
-permalink: /posts/2-advdef
+permalink: /posts/2019/01/2-advdef/
 tags:
   - machine learning
   - adversarial examples
