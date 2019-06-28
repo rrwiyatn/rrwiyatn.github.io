@@ -10,6 +10,30 @@ redirect_from:
 
 My current research interests include, but not limited to: learning from interaction, robust/adversarial machine learning, learning-based control, continual/meta learning, and sim-to-real.​​ I love working on various aspects on building robots, whether it is hardware or software - whatever makes a great robot great!
 
+Education
+======
+* M.Sc. Candidate in Computer Science, Montreal Institute of Learning Algorithms - University of Montreal, Starting Fall 2019
+  * Advisor: Prof. Liam Paull
+  * Topic: Robotics and Machine Learning (TBD)
+* B.ASc. in Mechatronics Engineering, University of Waterloo, Class of 2019
+  * Graduation Awards: Dean's Honours List, With Distinction
+
+Research Experience
+======
+* Research Intern - Element AI (January 2018 - Present)
+  * Advisor: Dr. Anqi Xu
+  * Topic: Robotics, adversarial examples (September 2017 - December 2017)
+* Research Assistant - Neurocognitive Computing Lab at the University of Waterloo
+  * Advisor: Prof. Jeff Orchard
+  * Topic: Computational neuroscience, neural networks
+
+Industrial Experience
+======
+* Backend and Deep Learning Engineer - Canon Innovation Lab (May 2017 - August 2017)
+* Mechatronics Engineer - OpenROV (now Sofar Ocean) (May 2016 - December 2016)
+* Computer Vision, Human Machine Interface, and Test Engineer - Flex, Automotive Division (formerly Flextronics) (January 2016 - April 2016)
+* Computer Vision, Human Machine Interface, and Test Engineer - Flex, Automotive Division (formerly Flextronics) (May 2015 - August 2015)
+
 Skills & Knowledge
 ======
 
