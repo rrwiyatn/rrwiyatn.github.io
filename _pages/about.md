@@ -16,7 +16,6 @@ Skills & Knowledge
 **Machine Learning:**
 CNN, RNN, LSTM, autoencoders, Generative Adversarial Networks (GAN), adversarial domain adaptation (e.g., CycleGAN, etc.), adversarial attacks, adversarial defenses, explainability (e.g., Class Activation Mapping, Grad-CAM, etc.), meta learning (e.g., Model-Agnostic Meta-Learning (MAML), Prototypical Networks, etc.), reinforcement learning (basics)
 
-
 **Computer Vision:**
 Object detection (e.g, RCNN, Fast(er) RCNN, Single Shot Multibox Detector (SSD), etc.), object tracking (e.g., GOTURN, SiamFC, etc.), image segmentation (e.g., Fully Convolutional Networks (FCN), Tiramisu One Hundred Layers, U-Net, etc.), object pose estimation (e.g. PoseCNN, etc.), human pose estimation (e.g., 3D pose estimation via adversarial learning, DeepPose, Convolutional Pose Machines, Stacked Hourglass Networks, etc.), camera relocalization (PoseNet, SPP-Net, etc.), classical vision algorithms (e.g., edge detectors, Hough transform, optical flow, etc.), stereo geometry
 
