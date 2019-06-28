@@ -15,7 +15,7 @@ Education
 * M.Sc. Candidate in Computer Science, Montreal Institute of Learning Algorithms - University of Montreal, Starting Fall 2019
   * Advisor: Prof. Liam Paull
   * Topic: Robotics and Machine Learning (TBD)
-* B.ASc. in Mechatronics Engineering, University of Waterloo, Class of 2019
+* B.ASc. in Mechatronics Engineering, Honours, Co-operative Program, University of Waterloo, Class of 2019
   * Graduation Awards: Dean's Honours List, With Distinction
 
 Research Experience
