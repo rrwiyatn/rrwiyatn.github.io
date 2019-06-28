@@ -1,7 +1,10 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Inspeksi - The Smart Defect Detector"
+# excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Category: Capstone Project
+Award: Autodesk Canada Capstone Design Award
+
+Inspeksi is an intelligent manufacturing inspection robot that can inspect defects on manufactured parts automatically. There is a 4 DoF arm with camera attached at the end-effector hanging at the top panel inside an enclosure, allowing the arm to inspect the part from multiple view points. The pictures are then processed using Mask R-CNN (He et al., 2017) to classify and localize the defects.
