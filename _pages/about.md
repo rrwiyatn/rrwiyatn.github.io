@@ -52,7 +52,7 @@ Proportional-integral-derivative (PID) controller, controller/plant discretizati
 Keras, TensorFlow, ROS, Gazebo, NumPy, SciPy, OpenCV, ScikitLearn, C, C++, Python, Lua, Matlab, Javascript, NodeJS, AVR, Arduino, Processing, Docker, Flask, LabVIEW, Linux, Mac, Windows
 
 **Hardware Design Tools:**
-​Altium, Eagle, LTSpice, Autodesk Inventor, SolidWorks, ANSYS, ANSYS AIM
+​Altium, Eagle, LTSpice, Autodesk Inventor, OpenSCAD, SolidWorks, ANSYS, ANSYS AIM
 
 **Robotics (Firmware/Electrical):** 
 Microcontrollers & SoC (e.g., Arduino, RaspberryPi, NVIDIA Jetson, etc.), Wi-Fi microcontrollers, circuits design, PCB layout, electronics troubleshooting, SMD soldering, rework​
