@@ -5,4 +5,5 @@ collection: portfolio
 ---
 
 **Category**: Personal Project<br/><br/>
-I tried several approaches, including algorithms based on a research paper titled"Single Image Haze Removal Using Dark Channel Prior" (He at al., 2009) and super resolution like network using perceptual losses trained on NYU dehazing dataset. The algorithm successfully removes haze/fog from an image.  (Github)
+I tried several approaches, including algorithms based on a research paper titled ["Single Image Haze Removal Using Dark Channel Prior" (He at al., 2009)](https://dl.acm.org/citation.cfm?id=2521310) and super resolution like network using perceptual losses trained on NYU dehazing dataset. The algorithm successfully removes haze/fog from an image. [Github](https://github.com/rrwiyatn/Image-Dehazing-Dark-Channel-Prior)<br/>
+<img src='/images/enhance_before.jpg'><img src='/images/enhance_after.jpg'>
