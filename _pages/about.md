@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Roboticist, Scientist - Currently a Research Intern at Element AI under supervision of Dr. Anqi Xu. I will be starting my Master's at Mila with Prof. Liam Paull in Fall 2019."
+title: "Roboticist and Scientist - Currently a Research Intern at Element AI under supervision of Dr. Anqi Xu. I will be starting my Master's at Mila with Prof. Liam Paull in Fall 2019."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,8 +10,31 @@ redirect_from:
 
 My current research interests include, but not limited to: learning from interaction, robust/adversarial machine learning, learning-based control, continual/meta learning, and sim-to-real.​​ I love working on various aspects on building robots, whether it is hardware or software - whatever makes a great robot great!
 
-A data-driven personal website
+Skills & Knowledge
 ======
+
+**Machine Learning:**
+CNN, RNN, LSTM, autoencoders, Generative Adversarial Networks (GAN), adversarial domain adaptation (e.g., CycleGAN, etc.), adversarial attacks, adversarial defenses, explainability (e.g., Class Activation Mapping, Grad-CAM, etc.), meta learning (e.g., Model-Agnostic Meta-Learning (MAML), Prototypical Networks, etc.), reinforcement learning (basics)
+
+
+**Computer Vision:**
+Object detection (e.g, RCNN, Fast(er) RCNN, Single Shot Multibox Detector (SSD), etc.), object tracking (e.g., GOTURN, SiamFC, etc.), image segmentation (e.g., Fully Convolutional Networks (FCN), Tiramisu One Hundred Layers, U-Net, etc.), object pose estimation (e.g. PoseCNN, etc.), human pose estimation (e.g., 3D pose estimation via adversarial learning, DeepPose, Convolutional Pose Machines, Stacked Hourglass Networks, etc.), camera relocalization (PoseNet, SPP-Net, etc.), classical vision algorithms (e.g., edge detectors, Hough transform, optical flow, etc.), stereo geometry
+
+**Control Theory:**
+Proportional-integral-derivative (PID) controller, controller/plant discretization, controller emulation, pole placement designs, state-space models, direct design of digital controller, system identification
+
+**Software Design Tools:** 
+Keras/TensorFlow/ROS/Gazebo/NumPy/SciPy/OpenCV/ScikitLearn/C/C++/Python/Lua/Matlab/Javascript/NodeJS/AVR/Arduino/Processing/Docker/Flask/LabVIEW/Linux/Mac/Windows
+
+**Hardware Design Tools:**
+​Altium/Eagle/LTSpice/Autodesk Inventor/SolidWorks/ANSYS/ANSYS AIM
+
+**Robotics (Firmware/Electrical):** 
+Microcontrollers & SoC (e.g., Arduino, RaspberryPi, NVIDIA Jetson, etc.), Wi-Fi microcontrollers, circuits design, PCB layout, electronics troubleshooting, SMD soldering, rework​
+
+**Robotics (Mechanical):**
+CAD, product design, design for manufacturing, design for assembly, finite element analysis, injection molding, rapid prototyping, additive manufacturing, laser cutting
+
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
