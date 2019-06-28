@@ -5,7 +5,7 @@ type: "Science Talk"
 permalink: /talks/2-advmrl
 venue: "Mobile Robotics Lab at McGill University"
 date: 2018-08-26
-location: "Montreal, QC, Canada"
+location: "Montreal, Quebec, Canada"
 ---
 
 Science talk about the progress of adversarial examples and how they can be applied to fool robotic systems. Particularly, the talk focus on how to fool drone tracking technology using physical adversarial examples.
