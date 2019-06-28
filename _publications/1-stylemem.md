@@ -1,7 +1,7 @@
 ---
 title: "Style Memory: Making a Classifier Network Generative"
 collection: publications
-permalink: /publication/1-stylemem
+# permalink: /publication/1-stylemem
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2018-03-05
 venue: 'International Conference on Cognitive Informatics and Cognitive Computing'

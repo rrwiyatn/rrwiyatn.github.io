@@ -1,7 +1,7 @@
 ---
 title: "Maximal Jacobian-based Saliency Map Attack"
 collection: publications
-permalink: /publication/2-mjsma
+# permalink: /publication/2-mjsma
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2018-08-23
 venue: 'Montreal Artificial Intelligence Symposium'
