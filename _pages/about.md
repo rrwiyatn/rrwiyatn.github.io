@@ -10,6 +10,8 @@ redirect_from:
 
 My current research interests include, but not limited to: learning from interaction, robust/adversarial machine learning, learning-based control, continual/meta learning, and sim-to-real.​​ I love working on various aspects on building robots, whether it is hardware or software - whatever makes a great robot great!
 
+[Download my CV here](https://rrwiyatn.github.io/files/CV_REY_WIYATNO.pdf)
+
 Education
 ======
 * M.Sc. Candidate in Computer Science, Montreal Institute of Learning Algorithms - University of Montreal, Starting Fall 2019
