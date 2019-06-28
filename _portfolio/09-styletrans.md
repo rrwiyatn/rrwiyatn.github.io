@@ -5,4 +5,5 @@ collection: portfolio
 ---
 
 **Category**: Personal Project<br/><br/>
-Style transfer using convolutional neural network in Keras based on paper titled "A Neural Algorithm of Artistic Style"(Gatys et al., 2015). Love this paper, this was actually one of the papers that really got me into deep learning! I have not got the chance to implement the "real time" version of it as seen here though. See Github.
+Style transfer using convolutional neural network in Keras based on paper titled ["A Neural Algorithm of Artistic Style"(Gatys et al., 2015)](https://arxiv.org/abs/1508.06576). Love this paper, this was actually one of the papers that really got me into deep learning! [Github](https://github.com/rrwiyatn/deep-learning/tree/master/style_transfer)<br/>
+<img src='/images/style_transfer.jpg'>
