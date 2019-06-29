@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Roboticist and Scientist - Currently a Research Intern at Element AI under supervision of Dr. Anqi Xu. I will be starting my Master's at Mila with Prof. Liam Paull in Fall 2019."
+title: "Roboticist and Scientist - Currently a Research Intern at Element AI under supervision of Dr. Anqi Xu. I will be starting my Master's at Montreal Institute of Learning Algorithms (Mila) with Prof. Liam Paull in Fall 2019."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My current research interests include, but not limited to: learning from interaction, robust/adversarial machine learning, learning-based control, continual/meta learning, and sim-to-real.​​ I love working on various aspects on building robots, whether it is hardware or software - whatever makes a great robot great!
+My current research interests include, but not limited to: learning from physical interaction, robust/adversarial machine learning, learning-based control, continual/meta learning, and sim-to-real.​​ I love working on various aspects on building robots, whether it is hardware or software - whatever makes a great robot great!
 
 [Download my CV here](https://rrwiyatn.github.io/files/CV_REY_WIYATNO.pdf)
 
