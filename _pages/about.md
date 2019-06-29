@@ -24,8 +24,8 @@ Research Experience
 ======
 * Research Intern - Element AI (January 2018 - Present)
   * Advisor: Dr. Anqi Xu
-  * Topic: Robotics, adversarial examples (September 2017 - December 2017)
-* Research Assistant - Neurocognitive Computing Lab at the University of Waterloo
+  * Topic: Robotics, adversarial examples
+* Research Assistant - Neurocognitive Computing Lab at the University of Waterloo (September 2017 - December 2017)
   * Advisor: Prof. Jeff Orchard
   * Topic: Computational neuroscience, neural networks
 
