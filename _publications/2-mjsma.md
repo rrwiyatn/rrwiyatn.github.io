@@ -4,7 +4,7 @@ collection: publications
 # permalink: /publication/2-mjsma
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2018-08-23
-venue: 'Montreal Artificial Intelligence Symposium'
+venue: 'Published in Montreal Artificial Intelligence Symposium (MAIS) 2018'
 paperurl: 'https://arxiv.org/abs/1808.07945'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
