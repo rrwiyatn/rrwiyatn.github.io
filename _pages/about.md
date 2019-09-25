@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Roboticist and Scientist - MSc. Candidate at Montreal Institute of Learning Algorithms (Mila) under supervision of Prof. Liam Paull & Research Intern at Element AI under supervision of Dr. Anqi Xu.
+title: "Roboticist and Scientist - MSc. Candidate at Montreal Institute of Learning Algorithms (Mila) under supervision of Prof. Liam Paull & Research Intern at Element AI under supervision of Dr. Anqi Xu."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
