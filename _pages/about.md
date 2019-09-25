@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Roboticist and Scientist - Currently a Research Intern at Element AI under supervision of Dr. Anqi Xu. I will be starting my Master's at Montreal Institute of Learning Algorithms (Mila) with Prof. Liam Paull in Fall 2019."
+title: "Roboticist and Scientist - MSc. Candidate at Montreal Institute of Learning Algorithms (Mila) under supervision of Prof. Liam Paull & Research Intern at Element AI under supervision of Dr. Anqi Xu.
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-My current research interests include, but not limited to: learning from physical interaction, robust/adversarial machine learning, learning-based control, continual/meta learning, and sim-to-real.​​ I love working on various aspects on building robots, whether it is hardware or software - whatever makes a great robot great!
+My current research interests include, but not limited to: semantic visual navigation, learning from physical interaction, robust/adversarial machine learning, continual/meta learning, and sim-to-real.​​ I love working on various aspects on building robots, whether it is hardware or software - whatever makes a great robot great!
 
 [Download my CV here](https://rrwiyatn.github.io/files/CV_REY_WIYATNO.pdf)
 
 Education
 ======
-* M.Sc. Candidate in Computer Science, Montreal Institute of Learning Algorithms - University of Montreal, Starting Fall 2019
+* M.Sc. Candidate in Computer Science, Montreal Institute of Learning Algorithms - University of Montreal
   * Advisor: Prof. Liam Paull
   * Topic: Robotics and Machine Learning (TBD)
 * B.ASc. in Mechatronics Engineering, Honours, Co-operative Program, University of Waterloo, Class of 2019
@@ -40,7 +40,7 @@ Skills & Knowledge
 ======
 
 **Machine Learning:**
-CNN, RNN, LSTM, autoencoders, Generative Adversarial Networks (GAN), adversarial domain adaptation (e.g., CycleGAN, etc.), adversarial attacks, adversarial defenses, explainability (e.g., Class Activation Mapping, Grad-CAM, etc.), meta learning (e.g., Model-Agnostic Meta-Learning (MAML), Prototypical Networks, etc.), reinforcement learning (basics)
+CNN, RNN, LSTM, autoencoders, Generative Adversarial Networks (GAN), adversarial domain adaptation (e.g., CycleGAN, etc.), adversarial attacks, adversarial defenses, explainability (e.g., Class Activation Mapping, Grad-CAM, etc.), meta learning (e.g., Model-Agnostic Meta-Learning (MAML), Prototypical Networks, etc.), semantic visual navigation, reinforcement learning (basics)
 
 **Computer Vision:**
 Object detection (e.g, RCNN, Fast(er) RCNN, Single Shot Multibox Detector (SSD), etc.), object tracking (e.g., GOTURN, SiamFC, etc.), image segmentation (e.g., Fully Convolutional Networks (FCN), Tiramisu One Hundred Layers, U-Net, etc.), object pose estimation (e.g. PoseCNN, etc.), human pose estimation (e.g., 3D pose estimation via adversarial learning, DeepPose, Convolutional Pose Machines, Stacked Hourglass Networks, etc.), camera relocalization (PoseNet, SPP-Net, etc.), classical vision algorithms (e.g., edge detectors, Hough transform, optical flow, etc.), stereo geometry
@@ -49,7 +49,7 @@ Object detection (e.g, RCNN, Fast(er) RCNN, Single Shot Multibox Detector (SSD),
 Proportional-integral-derivative (PID) controller, controller/plant discretization, controller emulation, pole placement designs, state-space models, direct design of digital controller, system identification
 
 **Software Design Tools:** 
-Keras, TensorFlow, ROS, Gazebo, NumPy, SciPy, OpenCV, ScikitLearn, C, C++, Python, Lua, Matlab, Javascript, NodeJS, AVR, Arduino, Processing, Docker, Flask, LabVIEW, Linux, Mac, Windows
+Keras, TensorFlow, ROS, Gazebo, MoveIt, NumPy, SciPy, OpenCV, ScikitLearn, C, C++, Python, Lua, Matlab, AVR, Arduino, Processing, Docker, Flask, LabVIEW, Linux, Mac, Windows
 
 **Hardware Design Tools:**
 ​Altium, Eagle, LTSpice, Autodesk Inventor, OpenSCAD, SolidWorks, ANSYS, ANSYS AIM
