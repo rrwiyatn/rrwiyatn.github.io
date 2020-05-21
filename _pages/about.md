@@ -25,7 +25,7 @@ Featured Publications
 
   &nbsp;*Adversarial Examples in Modern Machine Learning: A Review*<br/>
   &nbsp;**Rey Reza Wiyatno**, Anqi Xu, Ousmane Dia, Archy de Berker<br/>
-  &nbsp;*Pre-print*, 2019<br/>
+  &nbsp;*arXiv*, 2019<br/>
   &nbsp;[Paper](https://arxiv.org/abs/1911.05268) / [Adversarial Attack Blog](https://medium.com/element-ai-research-lab/tricking-a-machine-into-thinking-youre-milla-jovovich-b19bf322d55c) / [Adversarial Defense Blog](https://www.elementai.com/news/2019/securing-machine-learning-models-against-adversarial-attacks)<br/>
   &nbsp;A review of adversarial attack and defense techniques.
 
