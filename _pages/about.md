@@ -44,7 +44,7 @@ Featured Applied Projects
 
   &nbsp;*Inspeksi: Intelligent Manufacturing Visual Inspection Tool*<br/>
   &nbsp;Capstone Project<br/>
-  &nbsp;Winner of Autodesk Canada Capstone Design Award<br/>
+  &nbsp;*Winner of Autodesk Canada Capstone Design Award 2019*<br/>
   &nbsp;[Video](https://www.youtube.com/watch?v=vNWAx3gE_QY&t=1s)<br/>
   &nbsp;A low-cost solution for automated visual inspection tool.
 
