@@ -20,10 +20,10 @@ In general, I love working on various aspects on building robots, whether it is 
 
 <img align="left" width="200" height="200" src="https://rrwiyatn.github.io/files/pat_thumbnail.jpg">
 
-  *Physical Adversarial Textures That Fool Visual Object Tracking*
-  Rey Reza Wiyatno, Anqi Xu
-  *ICCV*, 2019
-  [paper](https://arxiv.org/abs/1904.11042) / [video](https://arxiv.org/src/1904.11042v2/anc/supplementary_video.mp4)
+  *Physical Adversarial Textures That Fool Visual Object Tracking*<br/>
+  Rey Reza Wiyatno, Anqi Xu<br/>
+  *ICCV*, 2019<br/>
+  [paper](https://arxiv.org/abs/1904.11042) / [video](https://arxiv.org/src/1904.11042v2/anc/supplementary_video.mp4)<br/>
   We fool regression-based object tracker in real world with inconspicuous textures.
 
 
