@@ -16,6 +16,13 @@ In general, I love working on various aspects on building robots, whether it is 
 
 [CV](https://rrwiyatn.github.io/files/CV_REY_WIYATNO.pdf) / [Blog](https://rrwiyatn.github.io/blog/)
 
+
+
+<img align="left" width="100" height="100" src="https://rrwiyatn.github.io/files/pat_thumbnail.jpg">
+
+Physical Adversarial Textures That Fool Visual Object Tracking
+
+
 <!-- Education
 ======
 * M.Sc. Candidate in Computer Science, Montreal Institute of Learning Algorithms - University of Montreal
