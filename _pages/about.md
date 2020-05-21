@@ -52,6 +52,7 @@ Featured Applied Projects
 
   &nbsp;*Autonomous Drone Tracking with GOTURN*<br/>
   &nbsp;Work Project<br/>
+  &nbsp;*Robot: Parrot Bebop 2*<br/>
   &nbsp;[Video](https://www.youtube.com/watch?v=mSCGFm3M71A)<br/>
   &nbsp;Autonomous drone tracking using [GOTURN](https://arxiv.org/abs/1604.01802) and PID controller.
 
