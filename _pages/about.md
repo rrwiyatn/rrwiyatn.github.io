@@ -21,7 +21,7 @@ Featured Publications
 
 *Please visit my [Google Scholar](https://scholar.google.com/citations?hl=en&user=XKSXVPAAAAAJ) page for complete list of publications.*
 
-<img align="left" width="200" height="200" src="https://rrwiyatn.github.io/files/adv_review_thumbnail.png">
+<img align="left" width="200" height="200" src="https://rrwiyatn.github.io/images/adv_review_thumbnail.png">
 
   &nbsp;*Adversarial Examples in Modern Machine Learning: A Review*<br/>
   &nbsp;**Rey Reza Wiyatno**, Anqi Xu, Ousmane Dia, Archy de Berker<br/>
@@ -29,7 +29,7 @@ Featured Publications
   &nbsp;[Paper](https://arxiv.org/abs/1911.05268) / [Adversarial Attack Blog](https://medium.com/element-ai-research-lab/tricking-a-machine-into-thinking-youre-milla-jovovich-b19bf322d55c) / [Adversarial Defense Blog](https://www.elementai.com/news/2019/securing-machine-learning-models-against-adversarial-attacks)<br/>
   &nbsp;A review of adversarial attack and defense techniques.
 
-<img align="left" width="200" height="200" src="https://rrwiyatn.github.io/files/pat_thumbnail.jpg">
+<img align="left" width="200" height="200" src="https://rrwiyatn.github.io/images/pat_thumbnail.jpg">
 
   &nbsp;*Physical Adversarial Textures That Fool Visual Object Tracking*<br/>
   &nbsp;**Rey Reza Wiyatno**, Anqi Xu<br/>
@@ -40,7 +40,7 @@ Featured Publications
 Featured Applied Projects
 ======
 
-<img align="left" width="200" height="200" src="https://rrwiyatn.github.io/files/inspeksi_thumbnail.png">
+<img align="left" width="200" height="200" src="https://rrwiyatn.github.io/images/inspeksi_thumbnail.png">
 
   &nbsp;*Inspeksi: Intelligent Manufacturing Visual Inspection Tool*<br/>
   &nbsp;Capstone Project<br/>
@@ -48,7 +48,7 @@ Featured Applied Projects
   &nbsp;[Video](https://www.youtube.com/watch?v=vNWAx3gE_QY&t=1s)<br/>
   &nbsp;A low-cost solution for automated visual inspection tool.
 
-<img align="left" width="200" height="200" src="https://rrwiyatn.github.io/files/drone_tracking_thumbnail.png">
+<img align="left" width="200" height="200" src="https://rrwiyatn.github.io/images/drone_tracking_thumbnail.png">
 
   &nbsp;*Autonomous Drone Tracking with GOTURN*<br/>
   &nbsp;Work Project<br/>
