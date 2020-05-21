@@ -21,7 +21,7 @@ Featured Publications
 
 *Please see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=XKSXVPAAAAAJ) page for the complete list.*
 
-<img align="left" width="200" height="200" src="https://rrwiyatn.github.io/images/adv_review_thumbnail.jpg">
+<img align="left" width="200" height="200" src="https://rrwiyatn.github.io/images/adv_review_thumbnail.png">
 
   &nbsp;*Adversarial Examples in Modern Machine Learning: A Review*<br/>
   &nbsp;**Rey Reza Wiyatno**, Anqi Xu, Ousmane Dia, Archy de Berker<br/>
