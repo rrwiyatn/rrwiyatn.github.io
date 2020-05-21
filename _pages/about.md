@@ -21,6 +21,14 @@ Featured Publications
 
 *Please visit my [Google Scholar](https://scholar.google.com/citations?hl=en&user=XKSXVPAAAAAJ) page for complete list of publications.*
 
+<img align="left" width="200" height="200" src="https://rrwiyatn.github.io/files/adv_review_thumbnail.png">
+
+  &nbsp;*Adversarial Examples in Modern Machine Learning: A Review*<br/>
+  &nbsp;Rey Reza Wiyatno, Anqi Xu, Ousmane Dia, Archy de Berker<br/>
+  &nbsp;*Pre-print*, 2019<br/>
+  &nbsp;[Paper](https://arxiv.org/abs/1911.05268) / [Adversarial Attack Blog](https://medium.com/element-ai-research-lab/tricking-a-machine-into-thinking-youre-milla-jovovich-b19bf322d55c) / [Adversarial Defense Blog](https://www.elementai.com/news/2019/securing-machine-learning-models-against-adversarial-attacks)<br/>
+  &nbsp;A review of adversarial attack and defense techniques.
+
 <img align="left" width="200" height="200" src="https://rrwiyatn.github.io/files/pat_thumbnail.jpg">
 
   &nbsp;*Physical Adversarial Textures That Fool Visual Object Tracking*<br/>
@@ -28,15 +36,6 @@ Featured Publications
   &nbsp;*ICCV*, 2019<br/>
   &nbsp;[Paper](https://arxiv.org/abs/1904.11042) / [Video](https://arxiv.org/src/1904.11042v2/anc/supplementary_video.mp4) / [Blog](https://www.elementai.com/news/2019/physical-adversarial-textures-that-fool-visual-object-tracking)<br/>
   &nbsp;We fool regression-based object tracker in real world with inconspicuous textures.
-
-<img align="left" width="200" height="200" src="https://rrwiyatn.github.io/files/adv_review_thumbnail.png">
-
-  &nbsp;*Adversarial Examples in Modern Machine Learning: A Review*<br/>
-  &nbsp;Rey Reza Wiyatno, Anqi Xu, Ousmane Dia, Archy de Berker<br/>
-  &nbsp;*Pre-print*, 2019<br/>
-  &nbsp;[Paper](https://arxiv.org/abs/1911.05268) / [Atk. Blog](https://medium.com/element-ai-research-lab/tricking-a-machine-into-thinking-youre-milla-jovovich-b19bf322d55c) / [Def. Blog](https://www.elementai.com/news/2019/securing-machine-learning-models-against-adversarial-attacks)<br/>
-  &nbsp;A review of adversarial attack and defense techniques.
-
 
 <!-- Education
 ======
