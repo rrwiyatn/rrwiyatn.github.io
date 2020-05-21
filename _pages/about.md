@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently an M.Sc. candidate in Computer Science at [Mila](https://mila.quebec/)/[University of Montreal](https://www.umontreal.ca/) under supervision of [Prof. Liam Paull](https://liampaull.ca/) & Research Intern at [Element AI](https://www.elementai.com/) under supervision of [Dr. Anqi Xu](https://anqixu.me/). I did my B.ASc. in Mechatronics Engineering at the [University of Waterloo](https://uwaterloo.ca/). During my undergrad days, I was fortunate enough to have the opportunity to intern at [Element AI](https://www.elementai.com/), Canon Innovation Lab, [OpenROV (now Sofar Ocean)](https://www.sofarocean.com/), [Flex (previously Flextronics)](https://flex.com/), [Kiewit](https://www.kiewit.ca/en/), and [Pratt & Whitney Canada](https://www.pwc.ca/en/)
 
-My current research focus is to develop learning framework for solving semantic visual navigation task. Previous to this, I spent considerable time researching the topic of adversarial attacks and defenses. 
+My current research focus is to develop learning framework for solving semantic visual navigation task. Previous to this, I spent considerable time researching the topic of adversarial attacks and defenses, where I published [PAT (ICCV'19)](https://arxiv.org/abs/1904.11042), [MJSMA (MAIS'18)](https://arxiv.org/abs/1808.07945), and a [review paper (pre-print)](https://arxiv.org/abs/1911.05268).  
 
 [CV](https://rrwiyatn.github.io/files/CV_REY_WIYATNO.pdf) / [Blog](https://rrwiyatn.github.io/blog/)
 
