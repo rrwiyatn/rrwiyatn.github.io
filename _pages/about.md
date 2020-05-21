@@ -16,7 +16,8 @@ In general, I love working on various aspects on building robots, whether it is 
 
 [CV](https://rrwiyatn.github.io/files/CV_REY_WIYATNO.pdf) / [Blog](https://rrwiyatn.github.io/blog/)
 
-
+Featured Publications
+======
 
 <img align="left" width="200" height="200" src="https://rrwiyatn.github.io/files/pat_thumbnail.jpg">
 
