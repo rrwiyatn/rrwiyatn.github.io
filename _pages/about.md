@@ -48,6 +48,12 @@ Featured Applied Projects
   &nbsp;[Video](https://www.youtube.com/watch?v=vNWAx3gE_QY&t=1s)<br/>
   &nbsp;A low-cost solution for automated visual inspection tool.
 
+<img align="left" width="200" height="200" src="https://rrwiyatn.github.io/files/drone_tracking_thumbnail.png">
+
+  &nbsp;*Autonomous Drone Tracking with GOTURN*<br/>
+  &nbsp;Work Project<br/>
+  &nbsp;[Video](https://www.youtube.com/watch?v=mSCGFm3M71A)<br/>
+  &nbsp;Autonomous drone tracking using [GOTURN](https://arxiv.org/abs/1604.01802) and PID controller.
 
 <!-- Education
 ======
