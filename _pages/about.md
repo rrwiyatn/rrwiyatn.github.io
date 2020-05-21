@@ -40,6 +40,13 @@ Featured Publications
 Featured Applied Projects
 ======
 
+<img align="left" width="200" height="200" src="https://rrwiyatn.github.io/images/lfv_thumbnail.png">
+
+  &nbsp;*Duckietown Lane Following with Other Vehicles and Obstacles*<br/>
+  &nbsp;Course Project, AI Driving Olympics 2019<br/>
+  &nbsp;[Video](https://www.youtube.com/watch?v=BPbTiOgFPM0&feature=youtu.be)<br/>
+  &nbsp;Lane following and collision avoidance using light-weight semantic            &nbsp;segmentation model and pure pursuit controller.
+
 <img align="left" width="200" height="200" src="https://rrwiyatn.github.io/images/inspeksi_thumbnail.png">
 
   &nbsp;*Inspeksi: Intelligent Manufacturing Visual Inspection Tool*<br/>
