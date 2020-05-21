@@ -52,9 +52,16 @@ Featured Applied Projects
 
   &nbsp;*Autonomous Drone Tracking with GOTURN*<br/>
   &nbsp;Work Project<br/>
-  &nbsp;*Robot: Parrot Bebop 2*<br/>
+  &nbsp;*Robot: [Parrot Bebop 2](https://www.parrot.com/us/drones/parrot-bebop-2)*<br/>
   &nbsp;[Video](https://www.youtube.com/watch?v=mSCGFm3M71A)<br/>
   &nbsp;Autonomous drone tracking using [GOTURN](https://arxiv.org/abs/1604.01802) and PID controller.
+
+<img align="left" width="200" height="200" src="https://rrwiyatn.github.io/images/trident_payload_thumbnail.png">
+
+  &nbsp;*Trident ROV Payload*<br/>
+  &nbsp;Work Project<br/>
+  &nbsp;*Robot: [Sofar Trident](https://www.sofarocean.com/products/trident)*<br/>
+  &nbsp;Injection moldable external payload for underwater robot with a custom WiFi microcontroller.
 
 <!-- Education
 ======
