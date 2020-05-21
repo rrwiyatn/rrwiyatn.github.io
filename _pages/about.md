@@ -23,7 +23,7 @@ In general, I love working on various aspects on building robots, whether it is 
   &nbsp;*Physical Adversarial Textures That Fool Visual Object Tracking*<br/>
   &nbsp;Rey Reza Wiyatno, Anqi Xu<br/>
   &nbsp;*ICCV*, 2019<br/>
-  &nbsp;[Paper](https://arxiv.org/abs/1904.11042) / [Video]\(https://arxiv.org/src/1904.11042v2/anc/supplementary_video.mp4) / [Blog](https://www.elementai.com/news/2019/physical-adversarial-textures-that-fool-visual-object-tracking)<br/>
+  &nbsp;[Paper](https://arxiv.org/abs/1904.11042) / [Video](https://arxiv.org/src/1904.11042v2/anc/supplementary_video.mp4) / [Blog](https://www.elementai.com/news/2019/physical-adversarial-textures-that-fool-visual-object-tracking)<br/>
   &nbsp;We fool regression-based object tracker in real world with inconspicuous textures.
 
 
