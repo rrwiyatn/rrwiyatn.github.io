@@ -12,7 +12,7 @@ I am currently an M.Sc. candidate in Computer Science at [Mila](https://mila.que
 
 My current research focus is to develop learning framework for solving semantic visual navigation task. Previous to this, I spent considerable time researching the topic of adversarial attacks and defenses, where I published [PAT (ICCV'19)](https://arxiv.org/abs/1904.11042), [MJSMA (MAIS'18)](https://arxiv.org/abs/1808.07945), and a [review paper (pre-print)](https://arxiv.org/abs/1911.05268).
 
-I love working on various aspects on building robots, whether it is hardware or software - whatever makes a great robot great.
+In general, I love working on various aspects on building robots, whether it is hardware or software - whatever makes a great robot great. I also enjoy presenting my work, so please feel free to let me know if you want to learn more about it!
 
 [CV](https://rrwiyatn.github.io/files/CV_REY_WIYATNO.pdf) / [Blog](https://rrwiyatn.github.io/blog/)
 
