@@ -37,6 +37,18 @@ Featured Publications
   &nbsp;[Paper](https://arxiv.org/abs/1904.11042) / [Video](https://arxiv.org/src/1904.11042v2/anc/supplementary_video.mp4) / [Blog](https://www.elementai.com/news/2019/physical-adversarial-textures-that-fool-visual-object-tracking)<br/>
   &nbsp;Fooling object tracker in the real world with inconspicuous-looking textures.
 
+Featured Applied Projects
+======
+
+<img align="left" width="200" height="200" src="https://rrwiyatn.github.io/files/inspeksi_thumbnail.png">
+
+  &nbsp;*Inspeksi: Intelligent Manufacturing Visual Inspection Tool*<br/>
+  &nbsp;Capstone Project<br/>
+  &nbsp;Winner of Autodesk Canada Capstone Design Award<br/>
+  &nbsp;[Video](https://www.youtube.com/watch?v=vNWAx3gE_QY&t=1s)<br/>
+  &nbsp;A low-cost solution for automated visual inspection tool.
+
+
 <!-- Education
 ======
 * M.Sc. Candidate in Computer Science, Montreal Institute of Learning Algorithms - University of Montreal
