@@ -19,6 +19,8 @@ In general, I love working on various aspects on building robots, whether it is 
 Featured Publications
 ======
 
+*Please visit my [scholar](https://scholar.google.com/citations?hl=en&user=XKSXVPAAAAAJ) page for complete list of publications.*
+
 <img align="left" width="200" height="200" src="https://rrwiyatn.github.io/files/pat_thumbnail.jpg">
 
   &nbsp;*Physical Adversarial Textures That Fool Visual Object Tracking*<br/>
