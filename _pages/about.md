@@ -45,7 +45,7 @@ Featured Applied Projects
   &nbsp;*Duckietown Lane Following with Other Vehicles and Obstacles*<br/>
   &nbsp;Course Project, AI Driving Olympics 2019<br/>
   &nbsp;[Video](https://www.youtube.com/watch?v=BPbTiOgFPM0&feature=youtu.be)<br/>
-  &nbsp;Lane following and collision avoidance using light-weight semantic
+  &nbsp;Lane following and collision avoidance using light-weight semantic<br/>
   &nbsp;segmentation model and pure pursuit controller.
 
 <img align="left" width="200" height="200" src="https://rrwiyatn.github.io/images/inspeksi_thumbnail.png">
@@ -69,7 +69,7 @@ Featured Applied Projects
   &nbsp;*Trident ROV Payload*<br/>
   &nbsp;Work Project<br/>
   &nbsp;*Robot: [Sofar Trident](https://www.sofarocean.com/products/trident)*<br/>
-  &nbsp;Injection moldable external payload for underwater robot with a custom WiFi
+  &nbsp;Injection moldable external payload for underwater robot with a custom WiFi<br/>
   &nbsp;microcontroller.
 
 <!-- Education
