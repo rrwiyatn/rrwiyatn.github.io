@@ -18,7 +18,7 @@ In general, I love working on various aspects on building robots, whether it is 
 
 
 
-<img align="left" width="100" height="100" src="https://rrwiyatn.github.io/files/pat_thumbnail.jpg">
+<img align="left" width="200" height="200" src="https://rrwiyatn.github.io/files/pat_thumbnail.jpg">
 
 Physical Adversarial Textures That Fool Visual Object Tracking
 
