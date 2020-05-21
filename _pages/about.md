@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Roboticist - M.Sc. Candidate at Mila/University of Montreal under supervision of Prof. Liam Paull & Research Intern at Element AI under supervision of Dr. Anqi Xu."
+title: "Roboticist. I love working on various aspects on building robots, whether it is hardware or software - whatever makes a great robot great."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My current research interests include, but not limited to: semantic visual navigation, learning from physical interaction, robust/adversarial machine learning, continual/meta learning, and sim-to-real.​​ 
+I am currently an M.Sc. candidate in Computer Science at [Mila](https://mila.quebec/)/[University of Montreal](https://www.umontreal.ca/) under supervision of [Prof. Liam Paull](https://liampaull.ca/) & Research Intern at [Element AI](https://www.elementai.com/) under supervision of [Dr. Anqi Xu](https://anqixu.me/). I did my B.ASc. in Mechatronics Engineering at the [University of Waterloo](https://uwaterloo.ca/). During my undergrad days, I was fortunate enough to have the opportunity to intern at [Element AI](https://www.elementai.com/), Canon Innovation Lab, [OpenROV (now Sofar Ocean)](https://www.sofarocean.com/), [Flex (previously Flextronics)](https://flex.com/), [Kiewit](https://www.kiewit.ca/en/), and [Pratt & Whitney Canada](https://www.pwc.ca/en/)
 
-I love working on various aspects on building robots, whether it is hardware or software - whatever makes a great robot great!
+My current research focus is to develop learning framework for solving semantic visual navigation task. Previous to this, I spent considerable time researching the topic of adversarial attacks and defenses. 
 
 [CV](https://rrwiyatn.github.io/files/CV_REY_WIYATNO.pdf) / [Blog](https://rrwiyatn.github.io/blog/)
 
