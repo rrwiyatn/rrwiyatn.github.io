@@ -60,7 +60,7 @@ Featured Applied Projects
 
 <img align="left" width="200" height="200" src="https://rrwiyatn.github.io/images/drone_tracking_thumbnail.png">
 
-  &nbsp;*Autonomous Drone Tracking with GOTURN*<br/>
+  &nbsp;*Autonomous Drone Tracking*<br/>
   &nbsp;Work Project<br/>
   &nbsp;*Robot: [Parrot Bebop 2](https://www.parrot.com/us/drones/parrot-bebop-2)*<br/>
   &nbsp;[Video](https://www.youtube.com/watch?v=mSCGFm3M71A)<br/>
