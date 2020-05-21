@@ -19,7 +19,7 @@ In general, I love working on various aspects on building robots, whether it is 
 Featured Publications
 ======
 
-*Please visit my [Google Scholar](https://scholar.google.com/citations?hl=en&user=XKSXVPAAAAAJ) page for complete list of publications.*
+*Please see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=XKSXVPAAAAAJ) page for complete list of publications.*
 
 <img align="left" width="200" height="200" src="https://rrwiyatn.github.io/images/adv_review_thumbnail.png">
 
@@ -39,6 +39,8 @@ Featured Publications
 
 Featured Applied Projects
 ======
+
+*Please see my [CV](https://rrwiyatn.github.io/files/CV_REY_WIYATNO.pdf) for the complete list.*
 
 <img align="left" width="200" height="200" src="https://rrwiyatn.github.io/images/lfv_thumbnail.png">
 
