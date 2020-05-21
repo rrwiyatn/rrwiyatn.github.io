@@ -61,7 +61,7 @@ Featured Applied Projects
   &nbsp;*Trident ROV Payload*<br/>
   &nbsp;Work Project<br/>
   &nbsp;*Robot: [Sofar Trident](https://www.sofarocean.com/products/trident)*<br/>
-  &nbsp;Injection moldable external payload for underwater robot with a custom WiFi microcontroller.
+  &nbsp;Injection moldable external payload for underwater robot with a custom WiFi   &nbsp;microcontroller.
 
 <!-- Education
 ======
