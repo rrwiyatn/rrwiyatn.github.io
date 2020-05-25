@@ -44,8 +44,8 @@ Featured Applied Projects
 
 <img align="left" width="200" height="200" src="https://rrwiyatn.github.io/images/lfv_thumbnail.png">
 
-  &nbsp;*Duckietown: Lane Following with Other Vehicles and Obstacles*<br/>
-  &nbsp;Course Project, AI Driving Olympics 2019<br/>
+  &nbsp;*[Duckietown](https://www.duckietown.org/): Lane Following with Other Vehicles and Obstacles*<br/>
+  &nbsp;Course Project, AI Driving Olympics, 2019<br/>
   &nbsp;[Video](https://www.youtube.com/watch?v=BPbTiOgFPM0&feature=youtu.be)<br/>
   &nbsp;Lane following and collision avoidance using light-weight semantic<br/>
   &nbsp;segmentation model and pure pursuit controller.
@@ -54,14 +54,14 @@ Featured Applied Projects
 
   &nbsp;*Inspeksi: Intelligent Manufacturing Visual Inspection Tool*<br/>
   &nbsp;Capstone Project<br/>
-  &nbsp;*Winner of Autodesk Canada Capstone Design Award 2019*<br/>
+  &nbsp;*Winner of Autodesk Canada Capstone Design Award, 2019*<br/>
   &nbsp;[Video](https://www.youtube.com/watch?v=vNWAx3gE_QY&t=1s)<br/>
   &nbsp;A low-cost solution for automated visual inspection tool.
 
 <img align="left" width="200" height="200" src="https://rrwiyatn.github.io/images/drone_tracking_thumbnail.png">
 
   &nbsp;*Autonomous Drone Tracking*<br/>
-  &nbsp;Work Project<br/>
+  &nbsp;Work Project, 2018<br/>
   &nbsp;*Robot: [Parrot Bebop 2](https://www.parrot.com/us/drones/parrot-bebop-2)*<br/>
   &nbsp;[Video](https://www.youtube.com/watch?v=mSCGFm3M71A)<br/>
   &nbsp;Autonomous drone tracking using [GOTURN](https://arxiv.org/abs/1604.01802) and PID controller.
@@ -69,7 +69,7 @@ Featured Applied Projects
 <img align="left" width="200" height="200" src="https://rrwiyatn.github.io/images/trident_payload_thumbnail.png">
 
   &nbsp;*Trident ROV Payload*<br/>
-  &nbsp;Work Project<br/>
+  &nbsp;Work Project, 2016<br/>
   &nbsp;*Robot: [Sofar Trident](https://www.sofarocean.com/products/trident)*<br/>
   &nbsp;Injection moldable external payload for underwater robot with a custom WiFi<br/>
   &nbsp;microcontroller.
