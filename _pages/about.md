@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently an M.Sc. candidate in Computer Science at [Mila](https://mila.quebec/)/[University of Montreal](https://www.umontreal.ca/) under supervision of [Prof. Liam Paull](https://liampaull.ca/). I have also been fortunate to collaborate with [Dr. Anqi Xu](https://anqixu.me/) on my current and past research works. My current research focus is to develop learning framework for solving semantic visual navigation task. Prior to this, I spent considerable time researching the topic of adversarial attacks and defenses, where I published [PAT (ICCV'19)](https://arxiv.org/abs/1904.11042), [MJSMA (MAIS'18)](https://arxiv.org/abs/1808.07945), and a [review paper (pre-print)](https://arxiv.org/abs/1911.05268). In general, I love working on various aspects on building robots, whether it is hardware or software - whatever makes a great robot great. I also enjoy presenting my work, so please feel free to let me know if you want to learn more about it!
 
-When I am not doing research, I like to play music (acoustic and electric guitars), read books, and go for a hike.
+When I am not doing research, I like to play music (acoustic and electric guitars), read books, write [blog posts](https://rrwiyatn.github.io/blog/), and go for a hike.
 
 [CV](https://rrwiyatn.github.io/files/CV_REY_WIYATNO.pdf) / [Blog](https://rrwiyatn.github.io/blog/)
 
