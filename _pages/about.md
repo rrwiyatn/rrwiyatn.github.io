@@ -16,7 +16,7 @@ When I am not doing research, I like to play [music](https://www.youtube.com/wat
 
 <img align="left" width="820" height="312" src="https://rrwiyatn.github.io/images/donut_coffee_long.png">
 
-Note: the coffee + donut were created from scratch, and the textures of the wall + table + ground plane are from https://www.poliigon.com/.
+Note: the coffee + donut were created from scratch, and the textures of the wall + table + ground plane are from [Poliigon](https://www.poliigon.com/).
 
 Featured Publications
 ======
