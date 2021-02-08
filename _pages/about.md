@@ -12,11 +12,11 @@ I am currently an M.Sc. candidate in Computer Science at [Mila](https://mila.que
 
 [CV](https://rrwiyatn.github.io/files/CV_REY_WIYATNO.pdf) / [Blog](https://rrwiyatn.github.io/blog/)
 
-When I am not doing research, I like to play [music](https://www.youtube.com/watch?v=wVyzb9negkQ&feature=youtu.be&ab_channel=ReyWiyatno) (mainly acoustic and electric guitars), make [educational videos](https://www.youtube.com/playlist?list=PLyBs52SktWk5h39aCsAiweM1A4z5fVcoQ), read books, write [blog posts](https://rrwiyatn.github.io/blog/), and go for a hike. I also recently started to learn more about the creative side of 3D modelling and animation, here is my donut and coffee:
+When I am not doing research, I like to play [music](https://www.youtube.com/watch?v=wVyzb9negkQ&feature=youtu.be&ab_channel=ReyWiyatno) (mainly acoustic and electric guitars), make [educational videos](https://www.youtube.com/playlist?list=PLyBs52SktWk5h39aCsAiweM1A4z5fVcoQ), read books, write [blog posts](https://rrwiyatn.github.io/blog/), and go for a hike. I also recently started to learn more about the creative side of 3D modelling and animation, here is my coffee and donut:
 
 <img align="left" width="820" height="312" src="https://rrwiyatn.github.io/images/donut_coffee_long.png">
 
-Note: the donut + coffee were created from scratch, and the textures of the wall + table + ground plane are from https://www.poliigon.com/.
+Note: the coffee + donut were created from scratch, and the textures of the wall + table + ground plane are from https://www.poliigon.com/.
 
 Featured Publications
 ======
