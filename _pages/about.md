@@ -23,7 +23,7 @@ Featured Publications
 
 *Please see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=XKSXVPAAAAAJ) page for the complete list.*
 
-<img align="left" width="150" height="150" src="https://rrwiyatn.github.io/images/ltvn_teaser.gif">
+<img align="left" width="200" height="200" src="https://rrwiyatn.github.io/images/ltvn_teaser.gif">
 
   &nbsp;*Lifelong Topological Visual Navigation*<br/>
   &nbsp;**Rey Reza Wiyatno**, Anqi Xu, Liam Paull<br/>
@@ -59,6 +59,8 @@ Featured Applied Projects
   &nbsp;[Video](https://www.youtube.com/watch?v=BPbTiOgFPM0&feature=youtu.be)<br/>
   &nbsp;Lane following and collision avoidance using light-weight semantic<br/>
   &nbsp;segmentation model and pure pursuit controller.
+
+\
 
 <img align="left" width="200" height="200" src="https://rrwiyatn.github.io/images/inspeksi_thumbnail.png">
 
