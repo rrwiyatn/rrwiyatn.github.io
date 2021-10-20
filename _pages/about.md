@@ -23,7 +23,7 @@ Featured Publications
 
 *Please see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=XKSXVPAAAAAJ) page for the complete list.*
 
-<img align="left" width="200" height="150" src="https://rrwiyatn.github.io/images/ltvn_teaser.gif">
+<img align="left" width="150" height="150" src="https://rrwiyatn.github.io/images/ltvn_teaser.gif">
 
   &nbsp;*Lifelong Topological Visual Navigation*<br/>
   &nbsp;**Rey Reza Wiyatno**, Anqi Xu, Liam Paull<br/>
