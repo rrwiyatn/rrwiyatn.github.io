@@ -62,11 +62,6 @@ Featured Applied Projects
   &nbsp;Lane following and collision avoidance using light-weight semantic<br/>
   &nbsp;segmentation model and pure pursuit controller.
 
-\
-&nbsp;
-\
-&nbsp;
-
 <img align="left" width="200" height="200" src="https://rrwiyatn.github.io/images/inspeksi_thumbnail.png">
 
   &nbsp;*Inspeksi: Intelligent Manufacturing Visual Inspection Tool*<br/>
