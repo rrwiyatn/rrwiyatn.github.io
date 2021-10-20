@@ -29,7 +29,8 @@ Featured Publications
   &nbsp;**Rey Reza Wiyatno**, Anqi Xu, Liam Paull<br/>
   &nbsp;*arXiv*, 2021<br/>
   &nbsp;[Paper](https://arxiv.org/abs/2110.08488) / [Webpage](https://montrealrobotics.ca/ltvn/) / [Blog](https://montrealrobotics.ca/ltvn/blog)<br/>
-  &nbsp;Learning-based lifelong visual navigation method with topological graph.
+  &nbsp;We propose a learning-based topological visual navigation method with graph<br/>
+  &nbsp;update strategies that improves lifelong navigation performance over time.
 
 <img align="left" width="200" height="200" src="https://rrwiyatn.github.io/images/adversarial_review_thumbnail.png">
 
