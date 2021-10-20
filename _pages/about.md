@@ -61,6 +61,9 @@ Featured Applied Projects
   &nbsp;segmentation model and pure pursuit controller.
 
 \
+&nbsp;
+\
+&nbsp;
 
 <img align="left" width="200" height="200" src="https://rrwiyatn.github.io/images/inspeksi_thumbnail.png">
 
