@@ -23,6 +23,14 @@ Featured Publications
 
 *Please see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=XKSXVPAAAAAJ) page for the complete list.*
 
+<img align="left" width="200" height="200" src="https://rrwiyatn.github.io/images/ltvn_teaser.gif">
+
+  &nbsp;*Lifelong Topological Visual Navigation*<br/>
+  &nbsp;**Rey Reza Wiyatno**, Anqi Xu, Liam Paull<br/>
+  &nbsp;*arXiv*, 2021<br/>
+  &nbsp;[Paper](https://arxiv.org/abs/2110.08488) / [Webpage](https://montrealrobotics.ca/ltvn/) / [Blog](https://montrealrobotics.ca/ltvn/blog)<br/>
+  &nbsp;Learning-based lifelong visual navigation method with topological graph.
+
 <img align="left" width="200" height="200" src="https://rrwiyatn.github.io/images/adversarial_review_thumbnail.png">
 
   &nbsp;*Adversarial Examples in Modern Machine Learning: A Review*<br/>
