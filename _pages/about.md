@@ -12,11 +12,13 @@ I recently finished my M.Sc. in Computer Science at [Mila](https://mila.quebec/)
 
 [CV](https://rrwiyatn.github.io/files/CV_REY_WIYATNO.pdf) / [Blog](https://rrwiyatn.github.io/blog/) / [Paper summaries](https://rrwiyatn.github.io/paper-summaries/)
 
-When I am not doing research, I like to play [music](https://youtube.com/playlist?list=PLyBs52SktWk7DQa6gc1tUyJfiEg3lz6ZU) (mainly acoustic and electric guitars), make [educational videos](https://www.youtube.com/playlist?list=PLyBs52SktWk5h39aCsAiweM1A4z5fVcoQ), read books, writing [blog posts](https://rrwiyatn.github.io/blog/) or [paper summaries](https://rrwiyatn.github.io/paper-summaries/), and go for a hike. I also recently started to explore the creative side of 3D modelling and animation, here is my coffee + donut:
+When I am not doing research, I like to play [music](https://youtube.com/playlist?list=PLyBs52SktWk7DQa6gc1tUyJfiEg3lz6ZU) (mainly acoustic and electric guitars), make [educational videos](https://www.youtube.com/playlist?list=PLyBs52SktWk5h39aCsAiweM1A4z5fVcoQ), read books, writing [blog posts](https://rrwiyatn.github.io/blog/) or [paper summaries](https://rrwiyatn.github.io/paper-summaries/), and go for a hike. 
+
+<!-- I also recently started to explore the creative side of 3D modelling and animation, here is my coffee + donut:
 
 <img align="left" width="820" height="312" src="https://rrwiyatn.github.io/images/donut_coffee_long.png">
 
-Note: the coffee + donut were created from scratch, and the textures of the wall + table + ground plane are from [Poliigon](https://www.poliigon.com/).
+Note: the coffee + donut were created from scratch, and the textures of the wall + table + ground plane are from [Poliigon](https://www.poliigon.com/). -->
 
 Featured Publications
 ======
