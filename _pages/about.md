@@ -27,7 +27,7 @@ Featured Publications
 
   &nbsp;*Lifelong Topological Visual Navigation*<br/>
   &nbsp;**Rey Reza Wiyatno**, Anqi Xu, Liam Paull<br/>
-  &nbsp;*arXiv*, 2021<br/>
+  &nbsp;*IROS + RA-L*, 2022<br/>
   &nbsp;[Paper](https://arxiv.org/abs/2110.08488) / [Webpage](https://montrealrobotics.ca/ltvn/) / [Blog](https://montrealrobotics.ca/ltvn/blog)<br/>
   &nbsp;A learning-based topological visual navigation method with graph update<br/>
   &nbsp;strategies that improves lifelong navigation performance over time.<br/>
