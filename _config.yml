@@ -83,11 +83,11 @@ author:
   name             : "Rey Reza Wiyatno"
   avatar           : "rey.jpg"
   bio              : "Robot"
-  location         : "Montreal, QC, CA"
+  #location         : "Montreal, QC, CA"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=XKSXVPAAAAAJ"
-  email            : "reywiyatno@gmail.com"
+  #email            : "reywiyatno@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
