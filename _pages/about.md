@@ -79,13 +79,13 @@ Featured Applied Projects
   &nbsp;[Video](https://www.youtube.com/watch?v=mSCGFm3M71A)<br/>
   &nbsp;Autonomous drone tracking using [GOTURN](https://arxiv.org/abs/1604.01802) and PID controller.
 
-<img align="left" width="200" height="200" src="https://rrwiyatn.github.io/images/trident_payload_thumbnail.png">
+<!-- <img align="left" width="200" height="200" src="https://rrwiyatn.github.io/images/trident_payload_thumbnail.png">
 
   &nbsp;*Trident ROV Payload*<br/>
   &nbsp;Work Project, 2016<br/>
   &nbsp;*Robot: [Sofar Trident](https://www.sofarocean.com/products/trident)*<br/>
   &nbsp;Injection moldable external payload for underwater robot with a custom WiFi<br/>
-  &nbsp;microcontroller.
+  &nbsp;microcontroller. -->
 
 <!-- Education
 ======
