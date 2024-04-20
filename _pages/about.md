@@ -10,7 +10,8 @@ redirect_from:
 
 Currently Head of AI at [Laplaces AI](https://www.laplaces.ai/). I obtained my M.Sc. in Computer Science at [Mila](https://mila.quebec/)/[University of Montreal](https://www.umontreal.ca/)/[Robotics and Embodied AI Lab (REAL)](https://montrealrobotics.ca/) under supervision of [Prof. Liam Paull](https://liampaull.ca/). I have also been fortunate to collaborate with [Dr. Anqi Xu](https://anqixu.me/) on my current and past research works. My research focus was to develop learning framework for solving semantic visual navigation task. Most recently, I finished working on [Lifelong Topological Visual Navigation](https://montrealrobotics.ca/ltvn/). Prior to this, I spent considerable time researching the topic of adversarial attacks and defenses, where I published [PAT (ICCV'19)](https://arxiv.org/abs/1904.11042), [MJSMA (MAIS'18)](https://arxiv.org/abs/1808.07945), and a [review paper (pre-print)](https://arxiv.org/abs/1911.05268). I was also lucky to have been concretely introduced to the research world by working with [Prof. Jeff Orchard](https://cs.uwaterloo.ca/~jorchard/) in the [Neurocognitive Computing Lab](https://neurocog.uwaterloo.ca/) during my undergrad days. In general, I love working on various aspects on building robots, whether it is hardware or software - whatever makes a great robot great. I also enjoy presenting my work, so please feel free to let me know if you want to learn more about it!
 
-[CV](https://rrwiyatn.github.io/files/CV_REY_WIYATNO.pdf) / [Blog](https://rrwiyatn.github.io/blog/) / [Paper summaries](https://rrwiyatn.github.io/paper-summaries/)
+<!-- [CV](https://rrwiyatn.github.io/files/CV_REY_WIYATNO.pdf) / [Blog](https://rrwiyatn.github.io/blog/) / [Paper summaries](https://rrwiyatn.github.io/paper-summaries/) -->
+[Blog](https://rrwiyatn.github.io/blog/) / [Paper summaries](https://rrwiyatn.github.io/paper-summaries/)
 
 When I am not doing research, I like to play [music](https://youtube.com/playlist?list=PLyBs52SktWk7DQa6gc1tUyJfiEg3lz6ZU) (mainly acoustic and electric guitars), make [educational videos](https://www.youtube.com/playlist?list=PLyBs52SktWk5h39aCsAiweM1A4z5fVcoQ), read books, writing [blog posts](https://rrwiyatn.github.io/blog/) or [paper summaries](https://rrwiyatn.github.io/paper-summaries/), and go for a hike. I also recently started to explore the creative side of 3D modelling and animation, here is my coffee + donut:
 
@@ -52,7 +53,7 @@ Featured Publications
 Featured Applied Projects
 ======
 
-*Please see my [CV](https://rrwiyatn.github.io/files/CV_REY_WIYATNO.pdf) for the complete list.*
+<!-- *Please see my [CV](https://rrwiyatn.github.io/files/CV_REY_WIYATNO.pdf) for the complete list.* -->
 
 <img align="left" width="200" height="200" src="https://rrwiyatn.github.io/images/lfv_thumbnail.png">
 
