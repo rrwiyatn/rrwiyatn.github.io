@@ -13,11 +13,13 @@ Ex-Head of AI at [Laplaces AI](https://www.laplaces.ai/). I obtained my M.Sc. in
 <!-- [CV](https://rrwiyatn.github.io/files/CV_REY_WIYATNO.pdf) / [Blog](https://rrwiyatn.github.io/blog/) / [Paper summaries](https://rrwiyatn.github.io/paper-summaries/) -->
 [Blog](https://rrwiyatn.github.io/blog/) / [Paper summaries](https://rrwiyatn.github.io/paper-summaries/)
 
-I enjoy presenting my work, so please feel free to let me know if you want to learn more about it! When I am not doing research, I like to play tennis, play [music](https://youtube.com/playlist?list=PLyBs52SktWk7DQa6gc1tUyJfiEg3lz6ZU) (mainly acoustic and electric guitars), make [educational videos](https://www.youtube.com/playlist?list=PLyBs52SktWk5h39aCsAiweM1A4z5fVcoQ), read books, writing [blog posts](https://rrwiyatn.github.io/blog/) or [paper summaries](https://rrwiyatn.github.io/paper-summaries/), and go for a run or hike. I also started to explore the creative side of 3D modelling and animation, here is my coffee + donut:
+I enjoy presenting my work, so please feel free to let me know if you want to learn more about it! When I am not doing research, I like to play tennis, play [music](https://youtube.com/playlist?list=PLyBs52SktWk7DQa6gc1tUyJfiEg3lz6ZU) (mainly acoustic and electric guitars), make [educational videos](https://www.youtube.com/playlist?list=PLyBs52SktWk5h39aCsAiweM1A4z5fVcoQ), read books, writing [blog posts](https://rrwiyatn.github.io/blog/) or [paper summaries](https://rrwiyatn.github.io/paper-summaries/), and go for a run or hike. 
+
+<!-- I also started to explore the creative side of 3D modelling and animation, here is my coffee + donut:
 
 <img align="left" width="820" height="312" src="https://rrwiyatn.github.io/images/donut_coffee_long.png">
 
-Note: the coffee + donut were created from scratch, and the textures of the wall + table + ground plane are from [Poliigon](https://www.poliigon.com/).
+Note: the coffee + donut were created from scratch, and the textures of the wall + table + ground plane are from [Poliigon](https://www.poliigon.com/). -->
 
 Featured Publications
 ======
