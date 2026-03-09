@@ -1,7 +1,7 @@
 ---
-layout: archive
+# layout: archive
 permalink: /design/
-title: "Design Work"
+title: "Design Experiments"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 Test
 
-Featured Publications
+Featured Work
 ======
 
-Hi.
+Hi...
