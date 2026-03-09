@@ -19,9 +19,9 @@ A fully 3D-printed chair that exposes how it is assembled. Modular components an
 
 <figure class="third"><img src="/images/assembly_no_1/1.jpg" alt=""><img src="/images/assembly_no_1/2.jpg" alt=""><img src="/images/assembly_no_1/3.jpg" alt=""></figure>
 
-**Details**
+<p style="margin-bottom: 0.25em;"><strong>Details</strong></p>
 
-<div style="font-size: 0.85em; color: #6b6b6b; margin: 0.15em 0 0.75em; line-height: 1.5;">
+<div style="font-size: 0.85em; color: #6b6b6b; margin: 0 0 0.75em; line-height: 1.5;">
 Material: PLA<br>
 Fabrication: Consumer-grade desktop FDM 3D printing<br>
 Construction: Modular components with visible connectors
