@@ -1,11 +1,10 @@
 ---
 layout: archive
-permalink: /design/
+# permalink: /design/
 title: ""
 excerpt: "Design Work"
 author_profile: true
 redirect_from: 
-  - /design/
   - /design.html
 ---
 
