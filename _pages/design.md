@@ -20,19 +20,17 @@ A collection of selected design experiments and featured projects. These works e
 Featured Work
 ======
 
-<!-- Featured work item template. Duplicate this whole block for each project, and insert a horizontal rule (`---`) between projects. -->
+## Assembly No.1: *a modular chair defined by visible connectors and layered construction*
 
----
-
-### Assembly No.1
-
-*Modular chair defined by visible connectors and layered construction*
-
-<div style="font-size: 0.85em; color: #6b6b6b; margin: 0.25em 0 1em;">Material: PLA · Process: FDM 3D printing · Fabrication: Consumer-grade desktop printers · Construction: Modular printed components with visible connectors</div>
-
-**Short description:** A fully 3D-printed chair that exposes how it is assembled. Modular PLA components and visible connectors reveal the structural logic of the object while demonstrating how large furniture pieces can be produced using consumer-grade FDM printers.
+A fully 3D-printed chair that exposes how it is assembled. Modular PLA components and visible connectors reveal the structural logic of the object while demonstrating how large furniture pieces can be produced using consumer-grade FDM printers.
 
 {% include gallery %}
+
+<div style="font-size: 0.85em; color: #6b6b6b; margin: 0.25em 0 1em; line-height: 1.5;">
+Material: PLA<br>
+Fabrication: Consumer-grade desktop FDM 3D printing<br>
+Construction: Modular components with visible connectors
+</div>
 
 **Details**
 
