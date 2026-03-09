@@ -6,13 +6,6 @@ excerpt: ""
 author_profile: true
 redirect_from: 
   - /design.html
-gallery:
-  - image_path: assembly_no_1/1.jpg
-    alt: "Assembly No. 1 - front view"
-  - image_path: assembly_no_1/2.jpg
-    alt: "Assembly No. 1 - three-quarter view"
-  - image_path: assembly_no_1/3.jpg
-    alt: "Assembly No. 1 - detail view"
 ---
 
 A collection of selected design experiments and featured projects. These works explore material, structure, and fabrication through iterative prototyping and hands-on experimentation.
@@ -22,11 +15,11 @@ Featured Work
 
 ## Assembly No.1: *a modular chair defined by visible connectors and layered construction*
 
-A fully 3D-printed chair that exposes how it is assembled. Modular PLA components and visible connectors reveal the structural logic of the object while demonstrating how large furniture pieces can be produced using consumer-grade FDM printers.
+A fully 3D-printed chair that exposes how it is assembled. Modular components and visible connectors reveal the structural logic of the object while demonstrating how large furniture pieces can be produced using consumer-grade FDM printers.
 
-{% include gallery %}
+<div style="display: flex; gap: 0.5em; margin: 0.25em 0;"><img src="/images/assembly_no_1/1.jpg" alt=""><img src="/images/assembly_no_1/2.jpg" alt=""><img src="/images/assembly_no_1/3.jpg" alt=""></div>
 
-<div style="font-size: 0.85em; color: #6b6b6b; margin: 0.25em 0 1em; line-height: 1.5;">
+<div style="font-size: 0.85em; color: #6b6b6b; margin: 0.15em 0 0.75em; line-height: 1.5;">
 Material: PLA<br>
 Fabrication: Consumer-grade desktop FDM 3D printing<br>
 Construction: Modular components with visible connectors
