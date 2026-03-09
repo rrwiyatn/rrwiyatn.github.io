@@ -21,8 +21,11 @@ main:
   # - title: "Guide"
   #   url: /markdown/
 
-  - title: "Looking for my blog?"
+  - title: "Design Experiments"
+    url: /design/
+
+  - title: "Blog"
     url: https://rrwiyatn.github.io/blog/
 
-  - title: "Sometimes I write paper summaries too."
+  - title: "Paper Summaries"
     url: https://rrwiyatn.github.io/paper-summaries/

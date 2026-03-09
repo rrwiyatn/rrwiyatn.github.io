@@ -1,11 +1,11 @@
 ---
-permalink: /
+permalink: /design
 title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /design/
+  - /design.html
 ---
 
 Ex-Head of AI at [Laplaces AI](https://www.laplaces.ai/) (now [Maneva AI](https://www.maneva.ai/)). On top of AI models and infrastructure development, I had the privilege of leading an outstanding team in creating value for our customers through our products. I would also like to think that I contributed to laying the foundation that led to their [recent successful $10M seed round](https://www.maneva.ai/blog-posts/maneva-secures-10m-seed-funding-to-transform-manufacturing-with-ai-powered-automation) :)
