@@ -19,13 +19,13 @@ A fully 3D-printed chair that exposes how it is assembled. Modular components an
 
 <figure class="third"><img src="/images/assembly_no_1/1.jpg" alt=""><img src="/images/assembly_no_1/2.jpg" alt=""><img src="/images/assembly_no_1/3.jpg" alt=""></figure>
 
+**Details**
+
 <div style="font-size: 0.85em; color: #6b6b6b; margin: 0.15em 0 0.75em; line-height: 1.5;">
 Material: PLA<br>
 Fabrication: Consumer-grade desktop FDM 3D printing<br>
 Construction: Modular components with visible connectors
 </div>
-
-**Details**
 
 This project explores construction as a visible part of the design. Instead of hiding joints and fasteners, the chair highlights them as part of the object’s visual language. Contrasting connectors mark where components meet, making the structure easy to read and emphasizing how the chair is assembled.
 
