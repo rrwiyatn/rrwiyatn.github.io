@@ -17,7 +17,7 @@ Featured Work
 
 A fully 3D-printed chair that exposes how it is assembled. Modular components and visible connectors reveal the structural logic of the object while demonstrating how large furniture pieces can be produced using consumer-grade FDM printers.
 
-<div style="display: flex; gap: 0.5em; margin: 0.25em 0;"><img src="/images/assembly_no_1/1.jpg" alt=""><img src="/images/assembly_no_1/2.jpg" alt=""><img src="/images/assembly_no_1/3.jpg" alt=""></div>
+<figure class="third"><img src="/images/assembly_no_1/1.jpg" alt=""><img src="/images/assembly_no_1/2.jpg" alt=""><img src="/images/assembly_no_1/3.jpg" alt=""></figure>
 
 <div style="font-size: 0.85em; color: #6b6b6b; margin: 0.15em 0 0.75em; line-height: 1.5;">
 Material: PLA<br>
