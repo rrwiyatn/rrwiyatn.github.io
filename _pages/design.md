@@ -1,7 +1,8 @@
 ---
+layout: archive
 permalink: /design/
 title: ""
-excerpt: "About me"
+excerpt: "Design Work"
 author_profile: true
 redirect_from: 
   - /design/
