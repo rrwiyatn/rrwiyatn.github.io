@@ -15,7 +15,7 @@ I obtained my M.Sc. in Computer Science with AI specialization (Dean's Honors Li
 <!-- [CV](https://rrwiyatn.github.io/files/CV_REY_WIYATNO.pdf) / [Blog](https://rrwiyatn.github.io/blog/) / [Paper summaries](https://rrwiyatn.github.io/paper-summaries/) -->
 [Blog](https://rrwiyatn.github.io/blog/) / [Paper summaries](https://rrwiyatn.github.io/paper-summaries/)
 
-I enjoy presenting my work, so please feel free to let me know if you want to learn more about it! When I am not "working", I like to play tennis, dabbling in industrial design, play [music](https://youtube.com/playlist?list=PLyBs52SktWk7DQa6gc1tUyJfiEg3lz6ZU) (mainly acoustic and electric guitars), make [educational videos](https://www.youtube.com/playlist?list=PLyBs52SktWk5h39aCsAiweM1A4z5fVcoQ) (OUTDATED), read books, writing [blog posts](https://rrwiyatn.github.io/blog/) (OUTDATED) or [paper summaries](https://rrwiyatn.github.io/paper-summaries/) (OUTDATED), and go for a run or hike. 
+I enjoy presenting my work, so please feel free to let me know if you want to learn more about it! When I am not "working", I like to play tennis, dabbling in [industrial design](https://rrwiyatn.github.io/design/), play [music](https://youtube.com/playlist?list=PLyBs52SktWk7DQa6gc1tUyJfiEg3lz6ZU) (mainly acoustic and electric guitars), make [educational videos](https://www.youtube.com/playlist?list=PLyBs52SktWk5h39aCsAiweM1A4z5fVcoQ) (OUTDATED), read books, writing [blog posts](https://rrwiyatn.github.io/blog/) (OUTDATED) or [paper summaries](https://rrwiyatn.github.io/paper-summaries/) (OUTDATED), and go for a run or hike. 
 
 <!-- I also started to explore the creative side of 3D modelling and animation, here is my coffee + donut:
 
