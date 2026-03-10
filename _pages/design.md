@@ -29,12 +29,10 @@ Construction: Modular components with visible connectors
 
 This project explores construction as a visible part of the design. Rather than hiding joints and fasteners, the chair highlights them as part of its visual language. Contrasting connectors mark where components meet, allowing the structure to be easily read while emphasizing how the chair is assembled.
 
-The chair is composed of multiple printed elements that interlock to form a rigid frame. Hidden connectors join the primary printed blocks to create the structural core of the chair, while visible connectors act as external reinforcement. These exposed elements increase rigidity while clearly communicating the assembly logic of the object.
+The chair is composed of multiple printed elements that interlock to form a rigid frame. Hidden connectors join the primary blocks to create the structural core of the chair, while visible connectors act as external reinforcement. These exposed elements increase rigidity while clearly communicating the assembly logic of the object.
 
 Internal cross members support the seat and strengthen the base, while large cutouts reduce visual mass and reveal the layered structure inside the chair. These openings allow light to pass through the object and expose the relationship between the outer shell and the supporting framework.
 
 When viewed through the center of the chair, the internal members align to reveal the depth of the structure. This perspective emphasizes the layered construction and highlights how the internal framework works together with the outer surfaces.
 
-All components are 3D printed in PLA using consumer-grade FDM printers. Due to the limited build volume of typical desktop machines, the chair is divided into smaller printable parts that are later assembled into a larger structure. The segmentation required by the printing process becomes part of the design, expressed through the visible connectors and modular construction.
-
-Using PLA and widely accessible desktop printers was a deliberate choice. The project investigates how large objects such as furniture can be fabricated using small, widely available machines by breaking the design into modular components. Rather than concealing the constraints of desktop printing, the chair embraces them, turning assembly, segmentation, and visible reinforcement into defining characteristics of the final form.
+All components are 3D printed in PLA using consumer-grade FDM printers. Because typical desktop machines have limited build volumes, the chair is divided into smaller printable parts that are later assembled into a larger structure. Rather than concealing this constraint, the design embraces segmentation and modular assembly, turning the visible connectors and layered construction into defining characteristics of the final form.
