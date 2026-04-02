@@ -13,6 +13,8 @@ A collection of selected design experiments and featured projects. These works e
 Featured Work
 ======
 
+<figure class="half"><img src="/images/assembly/1.jpg" alt=""><img src="/images/assembly/2.jpg" alt=""></figure>
+
 ## Assembly No.1: *a modular chair defined by visible connectors and layered construction*
 
 A fully 3D-printed chair that makes its method of assembly visible. Modular components and exposed connectors reveal the structural logic of the object while demonstrating how large furniture pieces can be fabricated using consumer-grade FDM printers.
