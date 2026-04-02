@@ -42,7 +42,6 @@ All components are 3D printed in PLA using consumer-grade FDM printers. Since ty
 A fully 3D-printed table that extends the Assembly system into a larger horizontal span. The design applies the same modular logic and visible connectors to a different structural condition, demonstrating how the system adapts to longer distances and integrated functionality using consumer-grade FDM printers.
 
 <figure class="quarter"><img src="/images/assembly_no_2/1.jpg" alt=""><img src="/images/assembly_no_2/2.jpg" alt=""><img src="/images/assembly_no_2/3.jpg" alt=""><img src="/images/assembly_no_2/4.jpg" alt=""></figure>
-
 <figure class="quarter"><img src="/images/assembly_no_2/5.jpg" alt=""><img src="/images/assembly_no_2/6.jpg" alt=""><img src="/images/assembly_no_2/7.jpg" alt=""><img src="/images/assembly_no_2/8.jpg" alt=""></figure>
 
 <p style="margin-bottom: 0.25em;"><strong>Details</strong></p>
