@@ -36,3 +36,29 @@ Internal cross members support the seat and strengthen the base, while large cut
 The seat introduces a softer form that contrasts with the structural base. Its recessed surface and flared edges define the stting area while visually lightening the upper portion of the chair.
 
 All components are 3D printed in PLA using consumer-grade FDM printers. Since typical desktop machines have limited build volumes, the chair is divided into smaller printable parts that are later assembled into a larger structure. Rather than concealing this constraint, the design embraces it, turning the visible connectors and modular construction into defining characteristics of the final form.
+
+## Assembly No.2: *a modular table exploring span, structure, and integrated function*
+
+A fully 3D-printed table that extends the Assembly system into a larger horizontal span. The design applies the same modular logic and visible connectors to a different structural condition, demonstrating how the system adapts to longer distances and integrated functionality using consumer-grade FDM printers.
+
+<figure class="quarter"><img src="/images/assembly_no_2/1.jpg" alt=""><img src="/images/assembly_no_2/2.jpg" alt=""><img src="/images/assembly_no_2/3.jpg" alt=""><img src="/images/assembly_no_2/4.jpg" alt=""></figure>
+
+<figure class="quarter"><img src="/images/assembly_no_2/5.jpg" alt=""><img src="/images/assembly_no_2/6.jpg" alt=""><img src="/images/assembly_no_2/7.jpg" alt=""><img src="/images/assembly_no_2/8.jpg" alt=""></figure>
+
+<p style="margin-bottom: 0.25em;"><strong>Details</strong></p>
+
+<div style="font-size: 0.85em; color: #6b6b6b; margin: 0 0 0.75em; line-height: 1.5;">
+Material: PLA<br>
+Fabrication: Consumer-grade desktop FDM 3D printing<br>
+Construction: Modular components with visible connectors
+</div>
+
+This project develops the Assembly system beyond a single seating object by introducing a table that addresses horizontal span and load distribution. The structure maintains the same interlocking components and exposed connectors, while adapting their arrangement to support a wider surface.
+
+The table is composed of modular elements that form a rigid frame across a longer distance. Internal members reinforce the span and distribute loads between the legs, while visible connectors continue to articulate how each part is joined. These connectors serve both as alignment features and external reinforcement, remaining intentionally exposed as part of the object’s visual language.
+
+A central structural band beneath the tabletop introduces a denser arrangement of vertical and horizontal members. This section stabilizes the span and makes the internal load path visible, expressing how forces are transferred across the length of the table rather than concealed within a solid volume.
+
+The tabletop is defined by a thicker perimeter and a recessed center. The thickened edges house integrated drawers, while the thinner central surface reduces visual mass and material usage. Cutout openings in the drawers provide access without additional hardware, maintaining consistency with the overall construction language.
+
+All components are 3D printed in PLA using consumer-grade FDM printers. The table is divided into smaller printable parts and assembled into a larger structure, extending the same modular approach to a more demanding scale. This shifts the focus from object to structure, where connections, spacing, and internal members become the primary drivers of the design.
