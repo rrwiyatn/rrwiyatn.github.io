@@ -10,10 +10,8 @@ redirect_from:
 
 A collection of selected design experiments and featured projects. These works explore material, structure, and fabrication through iterative prototyping and hands-on experimentation.
 
-Featured Work
+Featured Work: *Assembly*
 ======
-
-# Assembly
 
 This project draws from construction-based design approaches where assembly remains visible and legible. Extending these principles into desktop-scale digital fabrication, it explores how modular 3D-printed components can scale beyond the limits of consumer FDM printers while retaining a clear expression of structure.
 
