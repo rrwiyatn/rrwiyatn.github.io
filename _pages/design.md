@@ -55,12 +55,12 @@ Fabrication: Consumer-grade desktop FDM 3D printing<br>
 Construction: Modular components with visible connectors
 </div>
 
-This project develops the Assembly system beyond a single seating object by introducing a table that addresses horizontal span and load distribution. The structure maintains the same interlocking components and exposed connectors, while adapting their arrangement to support a wider surface.
+This project extends the Assembly system into a table, shifting from a compact object to a structure defined by span. The same modular components and exposed connectors concepts are retained, but reorganized to manage lateral stability over a longer distance.
 
 The table is composed of modular elements that form a rigid frame across a longer distance. Internal members reinforce the span and distribute loads between the legs, while visible connectors continue to articulate how each part is joined. These connectors serve both as alignment features and external reinforcement, remaining intentionally exposed as part of the object’s visual language.
 
-A central structural band beneath the tabletop introduces a denser arrangement of vertical and horizontal members. This section stabilizes the span and makes the internal load path visible, expressing how forces are transferred across the length of the table rather than concealed within a solid volume.
+A continuous band beneath the tabletop concentrates the primary structure, while vertical members transfer load between the surface and the base. Diagonal supports and X-bracing are introduced at the outer bays to resist lateral movement, stabilizing the frame without enclosing it. Connectors remain visible and consistent across the system, functioning as both alignment features and external reinforcement.
 
-The tabletop is defined by a thicker perimeter and a recessed center. The thickened edges house integrated drawers, while the thinner central surface reduces visual mass and material usage. Cutout openings in the drawers provide access without additional hardware, maintaining consistency with the overall construction language.
+The tabletop contrasts the open frame with a more resolved surface. A thickened perimeter integrates drawers, while the recessed center reduces visual mass. Cutout openings eliminate additional hardware and maintain consistency with the assembly language.
 
 All components are 3D printed in PLA using consumer-grade FDM printers. The table is divided into smaller printable parts and assembled into a larger structure, extending the same modular approach to a more demanding scale. This shifts the focus from object to structure, where connections, spacing, and internal members become the primary drivers of the design.
