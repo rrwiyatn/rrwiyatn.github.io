@@ -15,7 +15,7 @@ Featured Work: *Assembly (2026)*
 
 This project draws from construction-based design approaches where assembly remains visible and legible. Extending these principles into desktop-scale digital fabrication, it explores how modular 3D-printed components can scale beyond the limits of consumer FDM printers while retaining a clear expression of structure.
 
-<figure><img src="/images/assembly/2.jpg" alt=""></figure>
+<figure class="half"><img src="/images/assembly/1.jpg" alt=""><img src="/images/assembly/2.jpg" alt=""></figure>
 
 ## Assembly No.1: *a modular chair defined by visible connectors and layered construction*
 
