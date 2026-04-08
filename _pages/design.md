@@ -57,9 +57,7 @@ Construction: Modular components with visible connectors
 
 This project extends the Assembly system into a table, shifting from a compact object to a structure defined by span. The same modular components and exposed connectors concepts are retained, but reorganized to manage lateral stability over a longer distance.
 
-The table is composed of modular elements that form a rigid frame across a longer distance. Internal members reinforce the span and distribute loads between the legs, while visible connectors continue to articulate how each part is joined. These connectors serve both as alignment features and external reinforcement, remaining intentionally exposed as part of the object’s visual language.
-
-A continuous band beneath the tabletop concentrates the primary structure, while vertical members transfer load between the surface and the base. Diagonal supports and X-bracing are introduced at the outer bays to resist lateral movement, stabilizing the frame without enclosing it. Connectors remain visible and consistent across the system, functioning as both alignment features and external reinforcement.
+A continuous band beneath the tabletop concentrates the primary structure, while vertical members transfer load between the surface and the base. Diagonal supports and X-bracing are introduced at the outer bays to resist lateral movement, stabilizing the frame without enclosing it.
 
 The tabletop contrasts the open frame with a more resolved surface. A thickened perimeter integrates drawers, while the recessed center reduces visual mass. Cutout openings eliminate additional hardware and maintain consistency with the assembly language.
 
