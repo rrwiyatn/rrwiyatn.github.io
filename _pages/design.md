@@ -10,18 +10,18 @@ redirect_from:
 
 A collection of selected design experiments and featured projects. These works explore material, structure, and fabrication through iterative prototyping and hands-on experimentation.
 
-Featured Work: *Assembly (2026)*
+Featured Work: *sub[Assembly] (2026)*
 ======
 
 This project draws from construction-based design approaches where assembly remains visible and legible. Extending these principles into desktop-scale digital fabrication, it explores how modular 3D-printed components can scale beyond the limits of consumer FDM printers while retaining a clear expression of structure.
 
-<figure class="half"><img src="/images/assembly/1.jpg" alt=""><img src="/images/assembly/2.jpg" alt=""></figure>
+<figure class="half"><img src="/images/subassembly/1.jpg" alt=""><img src="/images/subassembly/2.jpg" alt=""></figure>
 
-## Assembly No.1: *a modular chair defined by visible connectors and layered construction*
+## sub[Assembly] No.1: *a modular chair defined by visible connectors and layered construction*
 
 A fully 3D-printed chair that makes its method of assembly visible. Modular components and exposed connectors reveal the structural logic of the object while demonstrating how large furniture pieces can be fabricated using consumer-grade FDM printers.
 
-<figure class="quarter"><img src="/images/assembly_no_1/1.jpg" alt=""><img src="/images/assembly_no_1/2.jpg" alt=""><img src="/images/assembly_no_1/3.jpg" alt=""><img src="/images/assembly_no_1/4.jpg" alt=""></figure>
+<figure class="quarter"><img src="/images/subassembly_no_1/1.jpg" alt=""><img src="/images/subassembly_no_1/2.jpg" alt=""><img src="/images/subassembly_no_1/3.jpg" alt=""><img src="/images/subassembly_no_1/4.jpg" alt=""></figure>
 
 <p style="margin-bottom: 0.25em;"><strong>Details</strong></p>
 
@@ -41,11 +41,11 @@ The seat introduces a softer form that contrasts with the structural base. Its r
 
 All components are 3D printed in PLA using consumer-grade FDM printers. Since typical desktop machines have limited build volumes, the chair is divided into smaller printable parts that are later assembled into a larger structure. Rather than concealing this constraint, the design embraces it, turning the visible connectors and modular construction into defining characteristics of the final form.
 
-## Assembly No.2: *a modular table exploring span, structure, and integrated function*
+## sub[Assembly] No.2: *a modular table exploring span, structure, and integrated function*
 
-A fully 3D-printed table that extends the Assembly system into a larger horizontal span. The design applies the same modular logic and visible connectors to a different structural condition, demonstrating how the system adapts to longer distances and integrated functionality using consumer-grade FDM printers.
+A fully 3D-printed table that extends the sub[Assembly] system into a larger horizontal span. The design applies the same modular logic and visible connectors to a different structural condition, demonstrating how the system adapts to longer distances and integrated functionality using consumer-grade FDM printers.
 
-<figure class="quarter"><img src="/images/assembly_no_2/1.jpg" alt=""><img src="/images/assembly_no_2/2.jpg" alt=""><img src="/images/assembly_no_2/3.jpg" alt=""><img src="/images/assembly_no_2/4.jpg" alt=""><img src="/images/assembly_no_2/5.jpg" alt=""><img src="/images/assembly_no_2/6.jpg" alt=""><img src="/images/assembly_no_2/7.jpg" alt=""><img src="/images/assembly_no_2/8.jpg" alt=""></figure>
+<figure class="quarter"><img src="/images/subassembly_no_2/1.jpg" alt=""><img src="/images/subassembly_no_2/2.jpg" alt=""><img src="/images/subassembly_no_2/3.jpg" alt=""><img src="/images/subassembly_no_2/4.jpg" alt=""><img src="/images/subassembly_no_2/5.jpg" alt=""><img src="/images/subassembly_no_2/6.jpg" alt=""><img src="/images/subassembly_no_2/7.jpg" alt=""><img src="/images/subassembly_no_2/8.jpg" alt=""></figure>
 
 <p style="margin-bottom: 0.25em;"><strong>Details</strong></p>
 
@@ -55,7 +55,7 @@ Fabrication: Consumer-grade desktop FDM 3D printing<br>
 Construction: Modular components with visible connectors
 </div>
 
-This project extends the Assembly system into a table, shifting from a compact object to a structure defined by span. The same modular components and exposed connectors concepts are retained, but reorganized to manage lateral stability over a longer distance.
+This project extends the sub[Assembly] system into a table, shifting from a compact object to a structure defined by span. The same modular components and exposed connectors concepts are retained, but reorganized to manage lateral stability over a longer distance.
 
 A continuous band beneath the tabletop concentrates the primary structure, while vertical members transfer load between the surface and the base. Diagonal supports and X-bracing are introduced at the outer bays to resist lateral movement, stabilizing the frame without enclosing it.
 
